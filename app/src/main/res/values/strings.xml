@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Perfect Scanner</string>
+    <string name="perfect_scanner">Perfect Scanner</string>
+    <string name="all_docs">All Docs(_)</string>
+    <string name="single_doc">Single Doc</string>
+    <string name="multiple_doc">Multiple Doc</string>
+    <string name="book">Book</string>
+    <string name="aadhar_card">Aadhaar Card</string>
+    <string name="voter_id">Voter ID</string>
+    <string name="passport">Passport</string>
+    <string name="pan_card">Pan Card</string>
+    <string name="id_card">ID Card</string>
+    <string name="photo">Photo</string>
+    <string name="signature">Signature</string>
+    <string name="import_from_gallery">Import Images</string>
+    <string name="todo">TODO</string>
+    <string name="aadhar_card_scan">Aadhaar Card Scan</string>
+    <string name="makes_scanning_easy">Makes Scanning Easy!!</string>
+</resources>

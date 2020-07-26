@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="bgStartColor">#4159E1</color>
+    <color name="bgEndColor">#8FAAEE</color>
+    <color name="homeStartColor">#5669D5</color>
+    <color name="white">#ffffff</color>
+    <color name="logoBgStart">#192CE7</color>
+</resources>
